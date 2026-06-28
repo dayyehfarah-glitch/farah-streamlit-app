@@ -292,7 +292,7 @@ with center:
     """, unsafe_allow_html=True)
 
 with right:
-    st.image("logo.png", width=120)
+    st.image("Logo.png", width=120)
 
 
 # ===== INPUT =====
